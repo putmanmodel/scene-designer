@@ -14,6 +14,9 @@ Scene Designer v1 is a small authoring tool for timed emotional compositions. A 
 - Import and export the canonical authored JSON format
 - Validate duplicate ids, missing actors, invalid duration, and out-of-range event times
 
+Try it in your browser: https://putmanmodel.github.io/scene-designer/
+- No installation required for the live demo.
+
 ## Canonical Data Model
 
 The authored data model is intentionally small:
